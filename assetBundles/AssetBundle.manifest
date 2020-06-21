@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 557079259
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: cubo
+      Dependencies: {}
+    Info_1:
+      Name: scenes.001
+      Dependencies: {}

@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 610239927
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: primitive.dlc
+      Dependencies: {}
+    Info_1:
+      Name: mydlc.dlc
+      Dependencies: {}

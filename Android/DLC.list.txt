@@ -1,5 +1,0 @@
-﻿Unity Logo<url>https://virtualnormality3d.github.io/virtualnormality3D/Android/mydlc.dlc
-primitive models <url> https://virtualnormality3d.github.io/virtualnormality3D/Android/primitive.dlc
-
-[0] Unity Logo
-[1] https://virtualnormality3d.github.io/virtualnormality3D/Android/mydlc.dlc

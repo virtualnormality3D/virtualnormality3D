@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2859575226
+CRC: 284396060
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4ff78e80d9ce781afc3c7364aaef1ee8
+    Hash: cd29968543a9e9868aac6dec5b7fd708
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 9c014f65f7cbbae3ac5d0775b77dacf8
+    Hash: d48a94fb7237d6aa629f7786ff5080e9
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -25,37 +25,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 104
   Script: {instanceID: 0}
-- Class: 114
-  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: c4b00c83c71238d41b97d233a058eaed, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
-- Class: 115
-  Script: {instanceID: 0}
-- Class: 128
-  Script: {instanceID: 0}
 - Class: 157
   Script: {instanceID: 0}
 - Class: 196
-  Script: {instanceID: 0}
-- Class: 213
-  Script: {instanceID: 0}
-- Class: 222
-  Script: {instanceID: 0}
-- Class: 223
-  Script: {instanceID: 0}
-- Class: 224
   Script: {instanceID: 0}
 Assets:
 - Assets/AssetBundle Scene Project/Scenes/escena001.unity

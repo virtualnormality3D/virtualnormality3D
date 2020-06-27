@@ -1,7 +1,10 @@
 ManifestFileVersion: 0
-CRC: 3750500297
+CRC: 4133568476
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: escenariobox.dlc
+      Name: main.dlc
+      Dependencies: {}
+    Info_1:
+      Name: escenario001.dlc
       Dependencies: {}

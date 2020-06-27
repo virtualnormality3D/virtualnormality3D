@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 4133568476
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: main.dlc
+      Dependencies: {}
+    Info_1:
+      Name: escenario001.dlc
+      Dependencies: {}

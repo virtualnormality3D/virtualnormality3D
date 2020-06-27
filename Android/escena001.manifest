@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3799954856
+CRC: 299574665
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a48b95c8c196d642fe885350a4f99aa7
+    Hash: 89c1e4b954e1fdcfde999c21a7f0ffc7
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a3d52606e2796a4bd8edcafb1865c0a8
+    Hash: 7806eed613b20f66ae8a549b17977fab
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -17,17 +17,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 21
   Script: {instanceID: 0}
-- Class: 23
-  Script: {instanceID: 0}
 - Class: 28
   Script: {instanceID: 0}
-- Class: 33
-  Script: {instanceID: 0}
-- Class: 43
-  Script: {instanceID: 0}
 - Class: 48
-  Script: {instanceID: 0}
-- Class: 65
   Script: {instanceID: 0}
 - Class: 81
   Script: {instanceID: 0}
@@ -42,11 +34,23 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 2a4db7a114972834c8e4117be1d82ba3, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: c4b00c83c71238d41b97d233a058eaed, type: 3}
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7be7a1a869f982a7db387463a036c435, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
 - Class: 114
@@ -68,5 +72,5 @@ ClassTypes:
 - Class: 224
   Script: {instanceID: 0}
 Assets:
-- Assets/AssetBundle Scene Project/Scenes/escenario001.unity
+- Assets/AssetBundle Scene Project/Scenes/escena001.unity
 Dependencies: []

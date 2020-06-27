@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1881812994
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: main.dlc
+      Dependencies: {}
+    Info_1:
+      Name: escena001.dlc
+      Dependencies: {}
+    Info_2:
+      Name: escena002.dlc
+      Dependencies: {}
+    Info_3:
+      Name: escena003.dlc
+      Dependencies: {}

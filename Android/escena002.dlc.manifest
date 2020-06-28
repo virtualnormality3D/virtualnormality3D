@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2424001520
+CRC: 2885966422
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b2ca7773514ee72d535d3868260e3f22
+    Hash: 1126bbe480b02b3a58b6b8fef6352063
   TypeTreeHash:
     serializedVersion: 2
     Hash: ce0de48169307559bee5ce293768b942
@@ -66,5 +66,5 @@ ClassTypes:
 - Class: 224
   Script: {instanceID: 0}
 Assets:
-- Assets/AssetBundle Scene Project/Scenes/escena001.unity
+- Assets/AssetBundle Scene Project/Scenes/escena002.unity
 Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2775233675
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: intro.dlc
+      Dependencies: {}
+    Info_1:
+      Name: room001.dlc
+      Dependencies: {}
+    Info_2:
+      Name: room002.dlc
+      Dependencies: {}
+    Info_3:
+      Name: room003.dlc
+      Dependencies: {}

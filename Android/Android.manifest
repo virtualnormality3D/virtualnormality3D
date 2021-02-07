@@ -1,7 +1,10 @@
 ManifestFileVersion: 0
-CRC: 570693665
+CRC: 844340677
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: bundlenew.cubo
+      Dependencies: {}
+    Info_1:
+      Name: escenas.escena2
       Dependencies: {}

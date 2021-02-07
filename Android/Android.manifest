@@ -1,7 +1,7 @@
 ManifestFileVersion: 0
-CRC: 3093784995
+CRC: 570693665
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: bundle1.cubo
+      Name: bundlenew.cubo
       Dependencies: {}

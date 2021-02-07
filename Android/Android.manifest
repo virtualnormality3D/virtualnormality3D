@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3093784995
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: bundle1.cubo
+      Dependencies: {}

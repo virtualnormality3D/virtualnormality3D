@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 786388637
+CRC: 1604762242
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ca1adfcececc30151addffd8e296de7a
+    Hash: f45de90500f2b903e5dab03647e6a504
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a7f2904ecb3503a9e33b0d0f531fb45c
+    Hash: a4c4aa948f478cf925da64d4ebbb2636
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -23,9 +23,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
-- Class: 65
+- Class: 136
   Script: {instanceID: 0}
-SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Prefabs/cubo.prefab
+- Assets/BundeledAssets/mynewbundle/TreeCapsules.prefab
 Dependencies: []

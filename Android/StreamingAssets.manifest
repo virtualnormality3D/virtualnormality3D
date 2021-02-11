@@ -1,7 +1,7 @@
 ManifestFileVersion: 0
-CRC: 1026427976
+CRC: 1917057583
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: online
+      Name: onlinescene
       Dependencies: {}

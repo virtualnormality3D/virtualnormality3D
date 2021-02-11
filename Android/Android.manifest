@@ -1,7 +1,7 @@
 ManifestFileVersion: 0
-CRC: 2188712470
+CRC: 1026427976
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: bundle
+      Name: online
       Dependencies: {}
